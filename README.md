@@ -1,19 +1,90 @@
-<h1 align="center">Hi 👋, I'm Shrey Soni</h1>
-<h3 align="center">A passionate frontend developer from India | Designing Scalable and Maintainable Code for Optimal Performance | Transforming Complex Ideas into Simple, Intuitive Designs</h3>
+# 👋 Hi, I'm Shrey Soni
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey7070" alt="shrey7070" /></a> </p>
+🎓 Computer Engineering Graduate Student @ Drexel University  
+💻 5+ Years of Experience | Frontend Specialist | Full-Stack Developer  
+📍 Based in Philadelphia, PA, USA  
+📫 Reach me at [shreysoni38@gmail.com](mailto:shreysoni38@gmail.com)
 
-- 🌱 I’m currently learning **nextjs, node, mongodb, graphql**
+---
 
-- 💬 Ask me about **html, css, javascript, typescript, react, tailwind css, firebase, redux, vue, angular**
+## 🚀 About Me
 
-- 📫 How to reach me **shreysoni38@gmail.com**
+I'm a passionate software engineer with 5+ years of experience crafting scalable, intuitive, and high-performance web applications. My journey spans startups to enterprise environments, contributing to cross-functional teams and shipping impactful products that serve thousands of users.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shrey-soni0712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrey-soni0712/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user1173wl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user1173wl/" height="30" width="40" /></a>
-</p>
+I specialize in **React**, **Next.js**, **Node.js**, and modern frontend frameworks, and I thrive on building real-time applications, leading frontend architecture, and enhancing developer workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+## 💼 Professional Experience
+
+### 🟣 Aubergine Solutions | Software Engineer II  
+*Nov 2021 – June 2024*  
+- Delivered scalable frontend solutions using React.js, Next.js, and Tailwind.
+- Reduced dev time by 15% via streamlined workflows.
+- Led scrum calls and implemented performance enhancements that reduced defect resolution time by 10%.
+
+### 🟠 Tata Consultancy Services | System Engineer  
+*July 2019 – Nov 2021*  
+- Developed pixel-perfect, responsive UIs using React and Bootstrap.
+- Managed GitLab pipelines and reduced feature deployment time by 10%.
+- Scored 95% in MERN stack training.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:**  
+JavaScript • TypeScript • Python • C++ • Java
+
+**Frontend:**  
+React.js • Next.js • Vue.js • HTML5 • CSS3 • Tailwind • Bootstrap • Angular.js
+
+**Backend & DevOps:**  
+Node.js • Express.js • MongoDB • PostgreSQL • Docker • JWT • PM2 • Nginx • AWS • GCP • CI/CD Pipelines
+
+**Other:**  
+System Design • WebSockets • REST APIs • TensorFlow • PyTorch • Git • Jira • Figma
+
+---
+
+## 📌 Featured Projects
+
+### 💬 [Real-Time Chat WebApp](https://chatapp-frontend-omega-seven.vercel.app)  
+Full-stack chat app with secure JWT auth, real-time communication using Socket.io, and responsive Next.js UI.
+
+### 🏏 [The Cricket Draft](https://fantasy.thecricketdraft.com)  
+Led frontend development for a live fantasy cricket platform using Next.js and live-score API integration.
+
+### 🏆 [The Ultimate Picks](https://ultimatepicks.ecb.co.uk)  
+Architected scalable frontend for England Cricket Board's fantasy platform. Achieved 90% deployment time reduction with CI/CD.
+
+### 🟢 [GoPronto](https://www.gopronto.io/)  
+Led UI development for a sub-product using React, TypeScript, React Query & Tailwind CSS. Conducted 1000+ PR reviews.
+
+---
+
+## 📘 Education
+
+**Drexel University**  
+*M.S. in Computer Engineering* (2026 expected) • GPA: 3.85/4  
+
+**Gujarat Technological University**  
+*B.E. in Computer Engineering* • CGPA: 8.67/10
+
+---
+
+## 📊 Stats & Profiles
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shrey-soni0712/)
+- 🧠 [LeetCode](https://leetcode.com/u/user1173wL/)
+- 🛠️ [GitHub Projects](https://github.com/shrey7070?tab=repositories)
+
+---
+
+## 🧠 Fun Fact
+
+I love solving ambiguous problems, leading design discussions, and turning ideas into reality—whether it’s building a new chat feature or debugging a weird edge case at 2AM.
+
+---
+
+⭐ *Let’s connect, collaborate, and create amazing things together!*
