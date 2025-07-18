@@ -83,7 +83,7 @@ Led UI development for a sub-product using React, TypeScript, React Query & Tail
 
 ## 🧠 Fun Fact
 
-I love solving ambiguous problems, leading design discussions, and turning ideas into reality—whether it’s building a new chat feature or debugging a weird edge case at 2AM.
+I love solving ambiguous problems, leading design discussions, and turning ideas into reality, whether it’s building a new chat feature or debugging a weird edge case at 2AM.
 
 ---
 
