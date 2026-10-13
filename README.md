@@ -1,90 +1,43 @@
-# 👋 Hi, I’m Shrey Soni
+# Shrey Soni
 
-Full-Stack Software Engineer with ~5 years of experience building production-grade web applications.  
-Currently working on fintech and automation systems using React, Node.js, and modern cloud tooling.
+Full-stack engineer with about 5 years of experience. I mostly work in React and Node.js, and right now I'm building payment automation at Paysign.
 
----
+## Stack
 
-## Tech Stack
-
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C++
-
-### Frontend
-- React
-- Next.js
-- Vue.js
-- Vite
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
-
-### Backend
-- Node.js
-- Express
-- REST APIs
-- JWT
-- Auth0
-
-### Databases
-- MongoDB
-- PostgreSQL
-- SQL / NoSQL
-
-### DevOps & Tools
-- AWS
-- Docker
-- CI/CD
-- Git
-- Postman
-- Jira
-- Figma
-
----
+- **Languages:** JavaScript, TypeScript, Python, Java, C++
+- **Frontend:** React, Next.js, Vue, Vite, HTML/CSS, Tailwind, Bootstrap
+- **Backend:** Node.js, Express, REST, JWT, Auth0
+- **Databases:** MongoDB, PostgreSQL
+- **Tooling:** AWS, Docker, GitLab CI, Git, Postman, Jira, Figma
 
 ## Experience
 
-### Paysign, Inc. — Software Engineer (CPT)
-**Sept 2025 – Present**
-- Building PCI-compliant payment automation systems for check and payment workflows
-- Developing secure RESTful APIs and frontend modules used in production
-- Implementing authentication, RBAC, and audit-ready systems
+**Paysign, Inc.** | Software Developer | Sept 2025 - present
 
-### Aubergine Solutions Pvt. Ltd. — Software Engineer II
-**Nov 2021 – June 2024**
-- Delivered scalable frontend-heavy applications using React, Next.js, and Vue.js
-- Improved development efficiency by 15% through workflow optimization
-- Reviewed production code and resolved high-priority issues
+- Build automation for check and payment workflows in a PCI-compliant environment
+- Write the REST APIs and the frontend modules that sit on top of them
+- Own authentication, role-based access control, and the audit trail
+- Patient Facing Portal for claim reimbursement
 
-### Tata Consultancy Services — System Engineer
-**July 2019 – Nov 2021**
-- Worked on frontend-focused software development projects while also building skills in fullstack development. Contributed to UI development, code management, and deployment processes in an enterprise Agile environment.
-- Developed intuitive and responsive UIs using HTML5, CSS3, Bootstrap, and React.js, ensuring designs matched with UX requirements.
-- Gained hands-on MERN stack skills through internal training, securing a 95% score, and applied knowledge on multiple portfolio projects.
-- Organized and maintained code repositories on GitLab, managing deployment pipelines that improved deployment speed and reduced errors.
-- Collaborated in Agile teams to deliver features reliably and on time, while continuously improving coding standards.
+**Aubergine Solutions** | Software Engineer II | Nov 2021 - June 2024
 
----
+- Built frontend-heavy applications in React, Next.js, and Vue
+- Made the team's development workflow about 15% more efficient
+- Reviewed production code and fixed high-priority issues
+
+**Tata Consultancy Services** | System Engineer | July 2019 - Nov 2021
+
+- Built UIs in HTML, CSS, Bootstrap, and React to match UX specs on enterprise projects
+- Managed GitLab repositories and deployment pipelines, which made deploys faster and less error-prone
+- Learned the MERN stack through internal training (scored 95%) and used it on several portfolio projects
 
 ## Education
 
-### Master of Science in Computer Engineering
-**Drexel University**  
-Expected Graduation: June 2026 | GPA: 3.85 / 4
-
-### Bachelor of Engineering in Computer Engineering
-**Gujarat Technological University**
-Graduated: 2019 | CGPA: 8.67 / 10
-
----
+- **MS, Computer Engineering**, Drexel University. Expected June 2026, GPA 3.85/4
+- **BE, Computer Engineering**, Gujarat Technological University. 2019, CGPA 8.67/10
 
 ## Contact
 
-- Portfolio: https://www.shrey-soni.dev
-- LinkedIn: https://www.linkedin.com/in/shrey-soni0712
-- Email: shreysoni38@gmail.com
+- [shrey-soni.dev](https://www.shrey-soni.dev)
+- [LinkedIn](https://www.linkedin.com/in/shrey-soni0712)
+- shreysoni38@gmail.com
